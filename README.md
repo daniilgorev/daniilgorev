@@ -19,7 +19,7 @@
 - [Certificate of completion the course (Russian version)](https://github.com/daniilgorev/yandex_practicum/blob/main/yandex_ds_certificate_ru.pdf)
 
 #### 📫 Как со мной связаться
-Вы всегда можете связаться со мной через [daniil.gorev97@gmail.com] или в социальных сетях:
+Вы всегда можете связаться со мной через daniil.gorev97@gmail.com или в социальных сетях:
 - [Instagram](https://instagram.com/federer_rodrigo?igshid=MjEwN2IyYWYwYw==)
 - [Telegram](https://t.me/federer_rodrigo)
 
