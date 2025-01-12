@@ -1,8 +1,8 @@
-### Привет, я начинающий Data Scientist! 👋
+### Hi, I’m an aspiring Data Scientist! 👋
 
-Приветствую вас на моей странице GitHub. Меня зовут Даниил Горев, и я увлечен анализом данных, машинным обучением и искусственным интеллектом. Моя цель - развиваться в области Data Science и создавать полезные проекты для общества.
+Welcome to my GitHub page! My name is Daniil Gorev, and I am passionate about data analysis, machine learning, and artificial intelligence. My goal is to grow in the field of Data Science and create meaningful projects that benefit society
 
-#### 💼 Мои навыки
+#### 💼 My skills
 - Python
 - Pandas
 - NumPy
@@ -12,22 +12,23 @@
 - Jupyter Notebook
 - SQL
 
-#### 📚 Образование
+#### 📚 Education
 
-Обучение в Яндекс Практикуме по программе профессиональной переподготовки «Специалист по Data Science»
+Training at Yandex Practicum in the professional retraining program 'Data Science Specialist'.
 - [Certificate of completion the course (English version)](https://github.com/daniilgorev/yandex_practicum/blob/main/yandex_ds_certificate_en.pdf)
 - [Certificate of completion the course (Russian version)](https://github.com/daniilgorev/yandex_practicum/blob/main/yandex_ds_certificate_ru.pdf)
 
-#### 📫 Как со мной связаться
-Вы всегда можете связаться со мной через daniil.gorev97@gmail.com или в социальных сетях:
+#### 📫 How to contact me
+You can always reach me at daniil.gorev97@gmail.com or via social media:
 - [Instagram](https://instagram.com/federer_rodrigo?igshid=MjEwN2IyYWYwYw==)
 - [Telegram](https://t.me/federer_rodrigo)
 
-#### 📈 Мои цели
-🌐 Найти первую работу: Моя первоочередная цель - найти работу в области анализа данных, чтобы начать строить свою карьеру и получить первоначальный опыт.
+#### 📈 My goals
 
-🧠 Учиться на практике: Приобретать опыт и знания на практике, работая с данными в реальных проектах и изучая лучшие практики от опытных коллег.
+🌐 Find My First Job: My top priority is to secure a position in data analysis to kickstart my career and gain initial experience.
 
-🌍 Взаимодействовать с сообществом: Вступать в сообщество аналитиков данных, общаться с профессионалами в этой области и учиться у них.
+🧠 Learn Through Practice: Acquire hands-on experience by working with real-world data projects and learning best practices from experienced colleagues.
 
-💼 Развиваться профессионально: Стремиться к профессиональному росту, повышать свои навыки и квалификацию, чтобы стать ценным членом команды.
+🌍 Engage with the Community: Join the data analytics community, network with professionals in the field, and learn from their expertise.
+
+💼 Grow Professionally: Strive for professional development by improving my skills and qualifications to become a valuable team member.
